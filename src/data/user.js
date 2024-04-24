@@ -8,5 +8,5 @@ const user = {
     linkedin: "https://www.linkedin.com/in/liza/",
   },
 };
-
+// export {links}
 export default user;
